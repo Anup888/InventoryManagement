@@ -1,0 +1,12 @@
+{
+  "name": "InventoryManagement",
+  "version": "1.0.0",
+  "description": "Inventory Management for mask and gloves",
+  "main": "index.js",
+  "author": "Anup Gupta",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^6.1.0",
+    "inquirer": "^7.3.3"
+  }
+}
